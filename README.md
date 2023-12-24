@@ -41,7 +41,8 @@ for i in range(n):
 ```
 
 ## Output:
-![Alt text](<gau out.png>)
+![gau out](https://github.com/vinodhini-17/Gaussian/assets/145742741/fb420138-f277-4bbc-9286-072424c9f88b)
+
 
 
 ## Result:
