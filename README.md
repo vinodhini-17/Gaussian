@@ -9,6 +9,16 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 
+## step 1
+Convert the matrix to a NumPy array.
+## step 2
+Apply Gaussian Elimination to make elements below the diagonal zero.
+## step 3
+Normalize the diagonal elements to 1.
+## step 4
+Perform back-substitution to find the solution.
+## step 5
+The resulting array contains the solutions to the system of equations.
 
 ## Program:
 ```
